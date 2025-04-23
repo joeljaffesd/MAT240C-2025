@@ -1,0 +1,6 @@
+[submodule "Assignment3/Code/bladepad"]
+	path = Assignment3/Code/bladepad
+	url = https://github.com/joeljaffesd/bladepad
+[submodule "Assignment3/Code/gibber.audio.lib"]
+	path = Assignment3/Code/gibber.audio.lib
+	url = https://github.com/charlieroberts/gibber.audio.lib
